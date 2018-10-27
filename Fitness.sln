@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Data", "Fitness.Data\Fitness.Data.csproj", "{7E103E1F-B521-45C5-85C7-74BB5490D3B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Database", "Fitness.Data\Fitness.Database.csproj", "{7E103E1F-B521-45C5-85C7-74BB5490D3B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Web", "Fitness.Web\Fitness.Web.csproj", "{A4DDBBF8-01EA-4500-BA9F-966D28F92705}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fitness.Web", "Fitness.Web\Fitness.Web.csproj", "{A4DDBBF8-01EA-4500-BA9F-966D28F92705}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
