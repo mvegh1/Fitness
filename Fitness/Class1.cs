@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Fitness
 {
     public class Class1
-    {
+    { 
     }
 }
